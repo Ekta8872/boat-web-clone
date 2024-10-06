@@ -38,7 +38,7 @@ const Countdown = ({ hours, minutes }) => {
       setRemainingTime(calculateRemainingTime());
     }, 1000);
 
-    return () => clearInterval(timer); // Cleanup the timer when the component is unmounted
+    return () => clearInterval(timer);
   }, []);
 
   return (
