@@ -1,0 +1,43 @@
+import {
+  bestSellerData,
+  dailyDealsData,
+  categoryShopData,
+  newLaunchData,
+  shoppingWarrantyData,
+  lifestyleData,
+  bestOfBoatData,
+  homeScrollImgData,
+  videoTribeData,
+  buttonData,
+  // firstParaFooterData,
+  footerFirstPortionData,
+  secondFooterData,
+  secondFooterTwoGridData,
+  secondFooterThreeGridData,
+  secondFooterFourGridData,
+  //thirdfooter
+  thirdFooterData,
+  //ProductDetailsDAta
+  productDetailColorData,
+} from "./Home";
+
+export {
+  bestSellerData,
+  dailyDealsData,
+  categoryShopData,
+  newLaunchData,
+  shoppingWarrantyData,
+  lifestyleData,
+  bestOfBoatData,
+  homeScrollImgData,
+  videoTribeData,
+  buttonData,
+  // firstParaFooterData,
+  footerFirstPortionData,
+  secondFooterData,
+  secondFooterTwoGridData,
+  secondFooterThreeGridData,
+  secondFooterFourGridData,
+  thirdFooterData,
+  productDetailColorData,
+};
